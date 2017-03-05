@@ -17,7 +17,8 @@ bitmaps (both in memory and on disk), managing bitmap memory and displaying bitm
 in UI elements such as `ViewPager` and `ListView`/`GridView`.
 
 It also demonstrates how to have an Android project containing a mix of Ceylon code 
-alongside Java code, using the [Ceylon Gradle plugin for Android][2].
+alongside Java code, using the [Ceylon Gradle plugin for Android][2]. (We've 
+deliberately left some of the original Java code alone, in order to demonstrate this.)
 
 [1]: http://developer.android.com/training/displaying-bitmaps/
 [2]: https://github.com/ceylon/ceylon-gradle-android
