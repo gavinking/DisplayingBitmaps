@@ -4,7 +4,7 @@ DisplayingBitmaps sample for Ceylon on Android
 
 Sample demonstrating how to load large bitmaps efficiently off the main UI thread,
 caching bitmaps (both in memory and on disk), managing bitmap memory and displaying
-bitmaps in UI elements such as ViewPager and ListView/GridView.
+bitmaps in UI elements such as `ViewPager` and `ListView`/`GridView`.
 
 Introduction
 ------------
