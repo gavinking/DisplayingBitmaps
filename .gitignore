@@ -1,0 +1,7 @@
+.google
+.gradle
+.idea/libraries
+local.properties
+build
+Application/build
+Application/modules
