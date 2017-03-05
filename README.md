@@ -17,9 +17,10 @@ bitmaps (both in memory and on disk), managing bitmap memory and displaying bitm
 in UI elements such as ViewPager and ListView/GridView.
 
 It also demonstrates how to have an Android project containing a mix of Ceylon code 
-alongside Java code, using the Ceylon plugin for Gradle.
+alongside Java code, using the [Ceylon Gradle plugin for Android][2].
 
 [1]: http://developer.android.com/training/displaying-bitmaps/
+[2]: https://github.com/ceylon/ceylon-gradle-android
 
 Pre-requisites
 --------------
@@ -29,9 +30,9 @@ Pre-requisites
 - Android Build Tools v25.0.2
 - Android Support Repository
 
-Make sure you have [Ceylon IDE for IntelliJ][2] installed as a plugin in Android Studio.
+Make sure you have [Ceylon IDE for IntelliJ][3] installed as a plugin in Android Studio.
 
-[2]: https://ceylon-lang.org/documentation/1.3/ide/intellij/install/
+[3]: https://ceylon-lang.org/documentation/1.3/ide/intellij/install/
 
 Screenshots
 -------------
