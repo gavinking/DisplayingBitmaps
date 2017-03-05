@@ -2,7 +2,6 @@
 [compiler]
 source=src/main/ceylon
 source=build/generated/source/r/debug
-source=source
 
 [compiler "jvm"]
 target=7
