@@ -1,6 +1,6 @@
 
-Android DisplayingBitmaps Sample for Ceylon
-===========================================
+DisplayingBitmaps sample for Ceylon on Android
+==============================================
 
 Sample demonstrating how to load large bitmaps efficiently off the main UI thread,
 caching bitmaps (both in memory and on disk), managing bitmap memory and displaying
@@ -10,7 +10,7 @@ Introduction
 ------------
 
 This is a sample application for the Android Training class [Displaying Bitmaps Efficiently][1],
-partially ported to Ceylon.
+partially ported to [Ceylon](https://ceylon-lang.org).
 
 It demonstrates how to load large bitmaps efficiently off the main UI thread, caching
 bitmaps (both in memory and on disk), managing bitmap memory and displaying bitmaps
@@ -29,7 +29,9 @@ Pre-requisites
 - Android Build Tools v25.0.2
 - Android Support Repository
 
-Make sure you have Ceylon IDE for IntelliJ installed as a plugin in Android Studio.
+Make sure you have [Ceylon IDE for IntelliJ][] installed as a plugin in Android Studio.
+
+[2]: https://ceylon-lang.org/documentation/1.3/ide/intellij/install/
 
 Screenshots
 -------------
@@ -39,6 +41,6 @@ Screenshots
 Getting Started
 ---------------
 
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
+This sample uses the Gradle build system. To build this project, use the `gradlew build`
+command or use 'Import Project' in Android Studio.
 
