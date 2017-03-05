@@ -30,9 +30,10 @@ Pre-requisites
 - Android Build Tools v25.0.2
 - Android Support Repository
 
-Make sure you have [Ceylon IDE for IntelliJ][3] installed as a plugin in Android Studio.
+Make sure you have [Ceylon IDE for IntelliJ][3] installed as a plugin in [Android Studio][4].
 
 [3]: https://ceylon-lang.org/documentation/1.3/ide/intellij/install/
+[4]: https://developer.android.com/studio/install.html
 
 Screenshots
 -------------
