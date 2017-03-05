@@ -14,7 +14,7 @@ partially ported to [Ceylon](https://ceylon-lang.org).
 
 It demonstrates how to load large bitmaps efficiently off the main UI thread, caching
 bitmaps (both in memory and on disk), managing bitmap memory and displaying bitmaps
-in UI elements such as ViewPager and ListView/GridView.
+in UI elements such as `ViewPager` and `ListView`/`GridView`.
 
 It also demonstrates how to have an Android project containing a mix of Ceylon code 
 alongside Java code, using the [Ceylon Gradle plugin for Android][2].
