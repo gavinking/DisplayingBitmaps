@@ -1,0 +1,18 @@
+
+[compiler]
+source=src/main/ceylon
+source=build/generated/source/r/debug
+source=source
+
+[compiler "jvm"]
+target=7
+jdkprovider=android/25
+
+[repositories]
+lookup=./build/intermediates/ceylon-android/repository
+
+[defaults]
+offline=false
+flatclasspath=false
+autoexportmavendependencies=false
+fullyexportmavendependencies=false
